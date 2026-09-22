@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix yasseenmohamed1234511004",
+  "description": "Imported from GitHub: yasseen122/yasseenmohamed1234511004",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
